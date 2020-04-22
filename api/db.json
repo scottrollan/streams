@@ -1,0 +1,29 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "This is a great stream",
+      "id": 1
+    },
+    {
+      "title": "Other Stream",
+      "description": "Here's some stream",
+      "id": 2
+    },
+    {
+      "title": "My fav stream ever",
+      "description": "Like numero uno of all time",
+      "id": 3
+    },
+    {
+      "title": "Cat Fails",
+      "description": "no collection would be complete without cat fails",
+      "id": 4
+    },
+    {
+      "title": "Star Trek stuff",
+      "description": "god, i love this",
+      "id": 5
+    }
+  ]
+}
